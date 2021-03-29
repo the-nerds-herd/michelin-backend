@@ -19,7 +19,7 @@ const restaurantSchema = new mongoose.Schema(
 		restaurantImg: { type: String, required: true },
 		dishImgOne: { type: String, required: true },
 		dishImgTwo: String,
-		reviews: [reviewSchema],
+		reviews: [review],
 	},
 	{
 		timestamps: true,
