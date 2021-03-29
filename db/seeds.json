@@ -107,6 +107,80 @@
         "dishImgTwo": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.redd.it%2Fkcg7n12fbji21.jpg&imgrefurl=https%3A%2F%2Fwww.reddit.com%2Fr%2Fsushi%2Fcomments%2Fau8y5e%2Fomakase_sushi_taro_in_washington_dc%2F&tbnid=yV1ESJjPxSLR-M&vet=12ahUKEwjjyYyRqtbvAhXZXs0KHWP0AxoQMygHegUIARDBAQ..i&docid=VcPo_wSl8HpI4M&w=2050&h=1537&q=sushi%20taro&ved=2ahUKEwjjyYyRqtbvAhXZXs0KHWP0AxoQMygHegUIARDBAQ"
       },
       {
-          
+        "name":"Sushi Nakazawa",
+        "openingHours": "Sushi Counter-Saturaday Seating: 11:45AM - 1:45PM, Dinner: Sushi Counter Seatings: Monday-Thursday: 5:30PM - 7:45PM, Friday-Saturday: 5:00PM - 9:00PM, Dining Room: Monday-Thursday: 5:30PM - 8:30PM, Friday-Saturday: 5:00PM - 9:30PM",
+        "website":"https://www.sushinakazawa.com/washington-dc",
+        "Phone": "(202) 289-3515",
+        "introduction": "This second outpost of Nakazawa’s critically acclaimed New York sushi house is elegant and intimate, with lots of dark wood and gorgeous gold accents. For the best seat in the house, angle for one of the supple high-backed leather stools that flank the marble counter, where you can see the itamae work their magic as they prepare each course. The show is nearly as entertaining as the food is delicious.The team works in a tidy fashion, their hands moving as silently and seamlessly as a surgeon along meticulously organized counters. Ingredients are sourced both locally and from abroad, and freshness is paramount. Each course is presented like a revelation—the fish paired with perfectly sticky, short-grain rice, served just above room temperature. Think tender, bright orange spring salmon with a glossy streak of soy; firm Japanese cuttlefish, dotted with shiso leaf and plum sauce; as well as Golden Eye snapper, finished with a squeeze of lemon and sea salt.It will take you a couple of hours to work your way through the luxurious 20-course omakase of Chef Daisuke Nakazawa, who trained under the legendary Jiro Ono, but rest assured it is time well spent.",
+        "starNumber":1,
+        "address": "1100 Pennsylania Ave NW, Washington DC 20004",
+        "menue": "https://www.sushinakazawa.com/washington-dc/omakase-and-menu/omakase",
+        "restaurantImg": "https://axwwgrkdco.cloudimg.io/v7/mtp-cf-images.s3-eu-west-1.amazonaws.com/images/max/ae358e06-7ee1-4942-8f24-68c2fa88a129.jpg?width=1000",
+        "dishImgOne": "https://static.pxlecdn.com/photos/375289249/original/39b7391a7cec55c2ab08.jpg"
+      },
+      {
+        "name":"minibar",
+        "openingHours": "Temporaily Closed",
+        "website":"https://www.minibarbyjoseandres.com/",
+        "Phone": "(202) 393-0812",
+        "introduction": "Two frosted doors mark the entrance to this mighty restaurant that extends well beyond its diminutive name. The stylish entry lounge is an idyllic stop for a glass of bubbly before settling into the laboratory-like dining room. Here, guests are perched at six seats per counter, all set around Chef José Andrés' stainless steel workspace that literally makes his world a stage.This clinical-like décor isn't a coincidence, since the modern cooking is highly experimental (though deftly avoids mad scientist status).",
+        "starNumber":2,
+        "address": "855 E St. NW, Washington, 20004",
+        "menue": "https://www.minibarbyjoseandres.com/minibar/",
+        "restaurantImg": "https://images.getbento.com/accounts/b85cd1af5d35383bfbeffe2d4670cde7/media/images/4659minibar_whole_restaurant_nt_view_ken_wyner_2012.jpg?fit=max&w=1800&auto=format,compress",
+        "dishImgOne": "https://images.getbento.com/accounts/b85cd1af5d35383bfbeffe2d4670cde7/media/images/58034MiniBar_1115_94624.jpg?fit=max&w=1800&auto=format,compress",
+        "dishImgTwo": "https://images.getbento.com/accounts/b85cd1af5d35383bfbeffe2d4670cde7/media/images/75782MiniBar_102611_22061.jpg?fit=max&w=1800&auto=format,compress"
+      },
+      {
+        "name":"Fiola",
+        "openingHours": "Dinner: Wednesday-Saturday: 5PM - 9PM, Pickup & Delivery: Wednesday-Saturday: 5PM - 9:30PM",
+        "website":"https://www.fioladc.com/",
+        "Phone": "(202) 628-2888",
+        "introduction": "With stone walls, seasonal arrangements, and Warhol-esque prints, this central DC powerhouse is equal parts retro glitz and country lodge. Before even crossing the threshold, diners are met with gracious and enthusiastic servers. While they may rhapsodize about their favorite dishes, take your time to peruse the pithy menu, complete with a sense of mystery, stunning ensembles, and playful twists.Classic and modern elements come together in the regional Italian food, which is as likely to celebrate Roman inspiration as it is to represent Venetian flavors. Products, partially sourced from Chancellors Rock farm in Rappahannock County, are sterling as seen in the cacio e pepe remix, which takes the form of risotto with nasturtium (in place of pepper), confit beets, and tomato coulis. Crabbing here involves cabbage-wrapped crabmeat with pappa al pomodoro and intense red prawn oil, all accompanied by polenta. Comfort is king in rigatoni alla carbonara with guanciale; while palate cleansers like yuzu granité make a smooth segue to Sicilian cassata—perhaps the most colorful dessert ever.",
+        "starNumber":1,
+        "address": "601 Pennsylvania Ave. NW, Washington, DC 20004",
+        "menue": "https://www.fioladc.com/menu",
+        "restaurantImg": "https://axwwgrkdco.cloudimg.io/v7/mtp-cf-images.s3-eu-west-1.amazonaws.com/images/max/a540857f-fb0e-4ca1-a914-21d018a75f6e.jpg?width=1000",
+        "dishImgOne": "https://axwwgrkdco.cloudimg.io/v7/mtp-cf-images.s3-eu-west-1.amazonaws.com/images/max/3d22f52f-ce1e-451b-b784-aca700ecf6a7.jpg?width=1000",
+        "dishImgTwo": "https://axwwgrkdco.cloudimg.io/v7/mtp-cf-images.s3-eu-west-1.amazonaws.com/images/max/2d389ad1-a4c4-447c-9036-9e24d69479b5.jpg?width=1000" 
+      },
+      {
+        "name":"Kinship",
+        "openingHours": "Dinner: Wednesday-Saturday: 5PM - 9PM, Pickup & Delivery: Wednesday-Saturday: 5PM - 9:30PM",
+        "website":"https://kinshipdc.com/",
+        "Phone": "(202) 737-7700",
+        "introduction": "Kinship is a prominent fixture in DC’s culinary scene, thanks to Chef Eric Ziebold and wife/partner Célia Laurent’s inspired cuisine. They have earned a devoted following of urbane gastronomes and locals who gladly dress to dine here, making it feel like more of an occasion.",
+        "starNumber":1,
+        "address": "1015 7th St. NW, Washington, DC 20004",
+        "menue": "https://kinshipdc.com/menu/",
+        "restaurantImg": "https://axwwgrkdco.cloudimg.io/v7/mtp-cf-images.s3-eu-west-1.amazonaws.com/images/max/d2157ef3-8b1d-4d63-8b27-6f71898b0f2e.jpg?width=1000",
+        "dishImgOne": "https://static.pxlecdn.com/photos/245404346/original/bc9d20625341a605c90b.jpg",
+        "dishImgTwo": "https://static.pxlecdn.com/photos/244475103/original/a5848e33abe9a55f021b.jpg"
+      },
+      {
+        "name":"Metier",
+        "openingHours": "Dinner: Wednesday-Saturday: 5PM - 9PM, Pickup & Delivery: Wednesday-Saturday: 5PM - 9:30PM",
+        "website":"https://metierdc.com/",
+        "Phone": "(202) 737-7500",
+        "introduction": "Chef Ziebold plies his trade (or 'metier') in an ambitious tasting menu that pulls global flavors, supplemented by 'Menu Stories' thereby informing the diner of his source of inspiration or thought process behind each creation. A riff on cassoulet, for instance, features flageolet bean purée nestling a crispy pork jowl croquette and Santa Barbara uni. The crowning flourish is a zesty sorbet made from aji dulce peppers grown at the restaurant's garden in Virginia. The hearty boudin noir-stuffed quail breast; and 'tagliatelle' fashioned from celery root as well as Cognac- and foie gras-enriched jus are other delightful highlights.",
+        "starNumber":1,
+        "address": "1015 7th St. NW, Washington, DC 20001",
+        "menue": "https://metierdc.com/menu/",
+        "restaurantImg": "https://axwwgrkdco.cloudimg.io/v7/mtp-cf-images.s3-eu-west-1.amazonaws.com/images/max/47f1b2e4-d11d-4815-8b7b-afb689e64cf9.jpg?width=1000",
+        "dishImgOne": "https://axwwgrkdco.cloudimg.io/v7/mtp-cf-images.s3-eu-west-1.amazonaws.com/images/max/e3d6ad89-b596-4561-94a6-08c050b5bde3.jpg?width=1000",
+        "dishImgTwo": "https://static.pxlecdn.com/photos/370902101/original/e249a0ca09672c712f94.jpg"  
+      },
+      {
+        "name":"Gravitas",
+        "openingHours": "Closed: Monday, lunch : Tuesday-Friday",
+        "website":"http://www.gravitasdc.com/",
+        "Phone": "+1 202-763-7942",
+        "introduction": "Chef Matt Baker is luring diners to Ivy City with this gorgeous spot, which transforms local products into thoughtful, modern, and deeply complex plates. Its décor pays homage to the industrial bones of the setting by way of exposed brick and stark white walls, softened by greenery; fine service and an inviting open kitchen simply add to the appeal.Diners are offered myriad choices for their five-course meal, replete with consistently impressive dishes. Large appetites should put their faith in the chef and let him prepare a seven-course tasting, whereby sustainable ingredients are utilized to prepare items that are at once creative, astutely composed, and highly enjoyable. Dinner might kick off with lightly poached Chesapeake oysters, coupled with morels, ramps, and Madeira foam; or soy- and mirin-marinated tuna tartare spiked with lemon rind. Risi e bisi may then arrive, tucked with English peas, pancetta, and pecorino; while perfectly aged Wagyu ribeye, sprinkled with sea salt, is matched with truffle-mashed potatoes for ultimate decadence.Desserts, like a white chocolate buttermilk cake or raspberry lychee sorbet, display expert flavor combinations and will have you drooling for days.",
+        "starNumber":1,
+        "address": "1401 Okie St. NE, Washington, 20002, United States",
+        "menue": "https://www.jeffersondc.com/wp-content/uploads/2017/10/Plume-03.05.20.pdf",
+        "restaurantImg": "https://images.squarespace-cdn.com/content/v1/52d1a487e4b083081e02f5ff/1562633258272-2P2MNLYPKNACS5XPOWOV/ke17ZwdGBToddI8pDm48kCf3-plT4th5YDY7kKLGSZN7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0h8vX1l9k24HMAg-S2AFienIXE1YmmWqgE2PN2vVFAwNPldIHIfeNh3oAGoMooVv2g/Interior+-+Date+Night.JPG?format=1500w",
+        "dishImgOne": "https://images.squarespace-cdn.com/content/v1/52d1a487e4b083081e02f5ff/1551710654513-3XJEWAE2R57AKQLSNRVR/ke17ZwdGBToddI8pDm48kMW07nDPUi4QpkaiOZOMjjN7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QHyNOqBUUEtDDsRWrJLTmru5j-AQBePNiDV9hZLaF5Nv1eI2eQHYQ5hCOGwfHNc2oGbzw7ZizcAH76AsE0075/Gravitas-12-27-18-25.jpg?format=1500w",
+        "dishImgTwo": "https://images.squarespace-cdn.com/content/v1/52d1a487e4b083081e02f5ff/1551710553744-92BGU3XRVWRCBRDE6FV5/ke17ZwdGBToddI8pDm48kKAwwdAfKsTlKsCcElEApLR7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UegTYNQkRo-Jk4EWsyBNhwKrKLo5CceA1-Tdpfgyxoog5ck0MD3_q0rY3jFJjjoLbQ/Gravitas-11-30-18-56.jpg?format=1500w"
       }
 ]
