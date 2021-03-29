@@ -9,6 +9,7 @@ const userController = require('./controllers/userController');
 app.use(cors());
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
+// Controller(s)
 
 app.use('/restaurants', restaurantController);
 app.use('/restaurants/reviews', reviewController);
