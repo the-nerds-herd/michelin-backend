@@ -18,7 +18,7 @@ const restaurantSchema = new mongoose.Schema(
 		menue: { type: String, required: true },
 		restaurantImg: { type: String, required: true },
 		dishImgOne: { type: String, required: true },
-		dishImgTwo: { type: String, required: true },
+		dishImgTwo: String,
 		reviews: [reviewSchema],
 	},
 	{
