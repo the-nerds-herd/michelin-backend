@@ -182,5 +182,57 @@
         "restaurantImg": "https://images.squarespace-cdn.com/content/v1/52d1a487e4b083081e02f5ff/1562633258272-2P2MNLYPKNACS5XPOWOV/ke17ZwdGBToddI8pDm48kCf3-plT4th5YDY7kKLGSZN7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0h8vX1l9k24HMAg-S2AFienIXE1YmmWqgE2PN2vVFAwNPldIHIfeNh3oAGoMooVv2g/Interior+-+Date+Night.JPG?format=1500w",
         "dishImgOne": "https://images.squarespace-cdn.com/content/v1/52d1a487e4b083081e02f5ff/1551710654513-3XJEWAE2R57AKQLSNRVR/ke17ZwdGBToddI8pDm48kMW07nDPUi4QpkaiOZOMjjN7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QHyNOqBUUEtDDsRWrJLTmru5j-AQBePNiDV9hZLaF5Nv1eI2eQHYQ5hCOGwfHNc2oGbzw7ZizcAH76AsE0075/Gravitas-12-27-18-25.jpg?format=1500w",
         "dishImgTwo": "https://images.squarespace-cdn.com/content/v1/52d1a487e4b083081e02f5ff/1551710553744-92BGU3XRVWRCBRDE6FV5/ke17ZwdGBToddI8pDm48kKAwwdAfKsTlKsCcElEApLR7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UegTYNQkRo-Jk4EWsyBNhwKrKLo5CceA1-Tdpfgyxoog5ck0MD3_q0rY3jFJjjoLbQ/Gravitas-11-30-18-56.jpg?format=1500w"
+      },
+      {
+        "name":"Pineapple and Pearls",
+        "openingHours": "Closed: Monday, lunch : Tuesday-Saturday, Sunday",
+        "website":"https://www.pineappleandpearlsdc.com",
+        "Phone": "+1 202-595-7375",
+        "introduction": "What makes this gem such a memorable dining destination is that the cooking is ambitious yet whimsical, and completely devoid of formality or fuss. Whether the bartender or Chef de Cuisine Scott Muns serves you, no one in this kitchen seems self-important. Your continued enjoyment is paramount—an honorable feat considering that one is in for a meal that occupies most of the night. \nThe small space may be packed, but the ambience is pleasant and very comfortable. The prix-fixe menu includes beverage pairings, but guests seated at the bar may choose to order drinks à la carte as well. Regardless, dishes spark interest and the service remains at its highest level. Start with a pristine sea scallop from North Carolina, matched with diced kohlrabi for crunch, and dressed tableside with a lush brown butter sabayon. Then move on to monkfish en papillote delicately set atop creamy Carolina Gold rice.\nInvention is also a point of pride here, best seen in the baton of 'French toast' that combines foie gras, blue cheese, and black truffles to thrilling effect. Similarly, a perfect wedge of butternut squash-ice cream cake, with crème fraîche and pumpkin seeds, is divine in demeanor and flavor.",
+        "starNumber":2,
+        "address": "715 8th St. SE, Washington, 20003, United States",
+        "menue": "Online Menu not listed",
+        "restaurantImg": "https://axwwgrkdco.cloudimg.io/v7/mtp-cf-images.s3-eu-west-1.amazonaws.com/images/max/cb5270c5-ca05-4a80-beb7-422404e773f2.jpg?width=1000",
+        "dishImgOne": "https://axwwgrkdco.cloudimg.io/v7/mtp-cf-images.s3-eu-west-1.amazonaws.com/images/max/df4e0a4a-6df2-4bff-b725-40b724c973c5.jpg?width=1000",
+        "dishImgTwo": "https://axwwgrkdco.cloudimg.io/v7/mtp-cf-images.s3-eu-west-1.amazonaws.com/images/max/f1a1eb25-e113-493b-930a-5466453dd905.jpg?width=1000"
+      },
+      {
+        "name":"Rose’s Luxury",
+        "openingHours": "Closed: Monday, lunch : Tuesday-Saturday, Sunday",
+        "website":"https://rosesluxury.com",
+        "Phone": "+1 202-580-8889",
+        "introduction": "To dine now or later, that is the question. Enter Rose’s Luxury and you’ll need to decide whether you’re heading upstairs for drinks or settling in for a meal at one of their many nooks. This dining room is all about fun, especially at the kitchen-facing counter. The décor is decidedly laid-back, with an array of bare wood tables and exposed bulbs that make you feel like you’re in someone’s backyard. This casual mood means you’ll spot all types inside, including couples with tots in tow. \nSample the kitchen's greatest work by way of its enticingly creative and astutely executed cooking. Pasta lovers will devour the dedicated list, revealing such offerings as 'Little Spindles' draped in a sauce made from puréed broccoli, enriched with aged Gouda, and embellished with a judicious bit of green chili. Salt and pepper catfish coupled with a caviar-crowned tartar sauce is as extravagant as a side of warm and crisp hush puppies.\nDesserts are often unexpected but assuredly stirring. Sample a wedge of the crème fraîche tart (à la Nancy Silverton's Campanile in LA). This decadent rendering joins the hit list, thanks to its puffy base, creamy and perfectly tart filling, and diced pineapple garnish.",
+        "starNumber":1,
+        "address": "717 8th St. SE, Washington, 20003, United States",
+        "menue": "https://www.exploretock.com/rosesluxurydc/",
+        "restaurantImg": "https://static.pxlecdn.com/photos/199534630/original/1b8bf81a817f4c12ecde.jpg",
+        "dishImgOne": "https://static.pxlecdn.com/photos/199534749/original/175d66440feffa7bcead.jpg",
+        "dishImgTwo": "https://static.pxlecdn.com/photos/199535177/original/9cf534cee64a06222ee5.jpg"
+      },
+       {
+        "name":"Little Pearl",
+        "openingHours": "Closed: Monday",
+        "website":"https://littlepearldc.com",
+        "Phone": "+1 202-618-1868",
+        "introduction": "From the team behind hit restaurants, Rose’s Luxury and Pineapple and Pearls, arrives this much-beloved 'little pearl.' Its youthful ambience and carriage house setting, which dates back to the Civil War, makes a nice contrast. Inside, it's charming and modern, featuring an atrium-like glass ceiling, pale yellow-painted walls, as well as a bright and expansive patio. By day, this is a sweet and sunny café; come nighttime, the wine begins to flow and the tiny tables overflow with dishes laid out like a hazy culinary dream.Chef Aaron Silverman’s cooking style turns classics on their head in the most inventive ways. To wit, his clever and delicious Angel Eggs highlights deviled egg dupes that employ savory meringue as faux egg whites and are piped with egg yolk comprised of mayonnaise and flakes of sea salt. Fancy tater tots then arrive as perfectly fried squares of golden potatoes, topped with a dot of cod roe hollandaise and chives; while marinated and grilled pineapple sambal-chicken wings delight both sweet and savory fiends.The tasting menu is a steal at $45 for eight courses; and the playfully eclectic wine list makes for a great read and is absolutely worth adding on a pairing.",
+        "starNumber":1,
+        "address": "921 Pennsylvania Ave. SE, Washington, 20003, United States",
+        "menue": "https://www.exploretock.com/littlepearldc/",
+        "restaurantImg": "https://static.pxlecdn.com/photos/375060905/original/0e79d76632f761883fd2.jpg",
+        "dishImgOne": "https://static.pxlecdn.com/photos/375060891/original/6ad4405fb20795169283.jpg",
+        "dishImgTwo": "https://axwwgrkdco.cloudimg.io/v7/mtp-cf-images.s3-eu-west-1.amazonaws.com/images/max/a5c47024-204d-47e6-8459-aa2ef1293d6d.jpg?width=1000"
+      },
+      {
+        "name":"Masseria",
+        "openingHours": "Closed: Monday, lunch : Tuesday-Saturday, Sunday",
+        "website":"https://masseria-dc.com",
+        "Phone": "+1 202-608-1330",
+        "introduction": "With its seamless blend of indoor and outdoor spaces, Masseria is a shining beacon amidst the area's glossy high-rises, restaurants, and shopping galore. The former warehouse—complete with the requisite exposed ducts, brick walls, and classic farmhouse vibe—is glam yet austere with a stainless steel kitchen, chrome and leather furnishings, pendant lights suspended from nautical rope and an impressive glass-encased wine cellar.\nIt’s all very relaxed albeit in a well-dressed way, and the feel-good aura extends to the staff, who clearly like working here as much as diners enjoy lingering over their meals.Chef/owner Nicholas Stefanelli's Puglian heritage comes through in the menu, which features four or five courses, along with a nightly tasting. The kitchen hits all the right notes balancing trendy and serious. Begin with a cigar box filled with focaccia so sinfully delicious, you’ll be tempted to scarf it all down—but don’t. You’ll want to save room for the spicy fish stew, a thing of beauty practically brimming with tripe and lobster, or house-made maccheroni with a thick and gamey goat ragù. Even dessert strays far from the pack, showcasing beet ice cream instead of the classic tiramisu.",
+        "starNumber":1,
+        "address": "1340 4th St. NE, Washington, 20002, United States",
+        "menue": "https://www.masseria-dc.com/menu",
+        "restaurantImg": "https://images.squarespace-cdn.com/content/v1/597a191bbebafb0a625278ea/1503870860222-XAM9JAZ3ICQZE7X0OA8C/ke17ZwdGBToddI8pDm48kKArCOF0iFL0YYkLV67uZFEUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcTCbhelkpjCM5CH604iSToq5qn1s07TaySxVIGNJHnIOW4aDFT3KiuJQ54Lxag8Sa/about-1.jpg?format=1500w",
+        "dishImgOne": "https://images.squarespace-cdn.com/content/v1/597a191bbebafb0a625278ea/1597071998284-VH28JH4WKDOUHJE23UQ4/ke17ZwdGBToddI8pDm48kKArCOF0iFL0YYkLV67uZFEUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcTCbhelkpjCM5CH604iSToq5qn1s07TaySxVIGNJHnIOW4aDFT3KiuJQ54Lxag8Sa/menus-4.jpg?format=1500w",
+        "dishImgTwo": "https://images.squarespace-cdn.com/content/v1/597a191bbebafb0a625278ea/1503870728141-BGTOC4M1XZEQDQ75KJZE/ke17ZwdGBToddI8pDm48kKArCOF0iFL0YYkLV67uZFEUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcTCbhelkpjCM5CH604iSToq5qn1s07TaySxVIGNJHnIOW4aDFT3KiuJQ54Lxag8Sa/about-3.jpg?format=1500w"
       }
 ]
