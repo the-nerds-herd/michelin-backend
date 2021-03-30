@@ -61,8 +61,8 @@
         "address": "309 Middle St., Washington, 22747, United States",
         "menue": "https://theinnatlittlewashington.com/restaurant/sample-menu/",
         "restaurantImg": "https://theinnatlittlewashington.com/about-us/the-campus/#bwg15/153",
-        "dishImgOne": "https://theinnatlittlewashington.com/restaurant/sample-menu/#bwg21/241",
-        "dishImgTwo": "https://theinnatlittlewashington.com/restaurant/sample-menu/#bwg21/242"
+        "dishImgOne": "https://theinnatlittlewashington.com/wp-content/uploads/photo-gallery/Restaurant%20Sample%20Menu/Inn-at-Little-Washington-2007-WEB.jpg",
+        "dishImgTwo": "https://theinnatlittlewashington.com/wp-content/uploads/photo-gallery/Restaurant%20Sample%20Menu/Inn_at_Little_Washington_42641_WEB.jpg"
   
       },
       {
@@ -75,8 +75,8 @@
         "address": "1827 Adams Mill Rd. NW, Washington, 20009, United States",
         "menue": "https://www.tailupgoat.com/dinner-menu",
         "restaurantImg": "https://images.squarespace-cdn.com/content/v1/561f1280e4b01b5fd6ede23e/1589128035597-YE00F1NPAM917M47DWQZ/ke17ZwdGBToddI8pDm48kLwt6-IovoaBTq0VkP6qJ-VZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpxmwwrWsTNiiGR9BmwXTuHY5n9TSvfbTcUeJhDNnOxf7843GUA_SyCzzhWlX8NrVi0/TUG+Painting.png?format=1500w",
-        "dishImgOne": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.vox-cdn.com%2Fthumbor%2FbMOaxXvdAoWtf_44NM0YoR3dbNw%3D%2F0x0%3A6016x4016%2F1200x800%2Ffilters%3Afocal(2527x1527%3A3489x2489)%2Fcdn.vox-cdn.com%2Fuploads%2Fchorus_image%2Fimage%2F65354601%2F1051868084.jpg.0.jpg&imgrefurl=https%3A%2F%2Fdc.eater.com%2F2019%2F9%2F30%2F20891098%2Ftail-up-goat-bringing-revelers-hour-pasta-wine-adams-morgan-december&tbnid=8CtkVtkL5mSqEM&vet=12ahUKEwjSqbjkp9bvAhXdA50JHVMKAZsQMygMegUIARDAAQ..i&docid=8wa-Ee7C6HdKoM&w=1200&h=800&q=Tail%20Up%20Goat&ved=2ahUKEwjSqbjkp9bvAhXdA50JHVMKAZsQMygMegUIARDAAQ",
-        "dishImgTwo": "https://www.google.com/imgres?imgurl=https%3A%2F%2F37g8q83dpternslae3eh1f8t-wpengine.netdna-ssl.com%2Fwp-content%2Fuploads%2F2019%2F04%2FTail-Up-Goat-1-2000x1125.jpeg&imgrefurl=https%3A%2F%2Fblog.resy.com%2F2019%2F04%2Fnew-resy-restaurants-dc-tail-up-goat-momo-yakitori%2F&tbnid=e5Zfdhh0hi-7uM&vet=12ahUKEwjSqbjkp9bvAhXdA50JHVMKAZsQMygOegUIARDEAQ..i&docid=uXZgH525PpV7RM&w=2000&h=1125&q=Tail%20Up%20Goat&ved=2ahUKEwjSqbjkp9bvAhXdA50JHVMKAZsQMygOegUIARDEAQ"
+        "dishImgOne": "https://cdn.vox-cdn.com/thumbor/bMOaxXvdAoWtf_44NM0YoR3dbNw=/0x0:6016x4016/1200x800/filters:focal(2527x1527:3489x2489)/cdn.vox-cdn.com/uploads/chorus_image/image/65354601/1051868084.jpg.0.jpg",
+        "dishImgTwo": "https://37g8q83dpternslae3eh1f8t-wpengine.netdna-ssl.com/wp-content/uploads/2019/04/Tail-Up-Goat-1-2000x1125.jpeg"
   
       },
       {
@@ -88,9 +88,9 @@
         "starNumber": 1,
         "address": "1509 17th St. NW, Washington, 20036, United States",
         "menue": "http://www.komirestaurant.com/index.html",
-        "restaurantImg": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F3%2F3a%2FKomi_-_Washington%252C_D.C..JPG&imgrefurl=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FKomi_(restaurant)&tbnid=F1UFBboQytNjkM&vet=12ahUKEwipsLT7qNbvAhXEa80KHZm0CfsQMygAegUIARCgAQ..i&docid=22S1FXiFjb-aSM&w=2342&h=3089&q=komi%20restaurant%20dc&ved=2ahUKEwipsLT7qNbvAhXEa80KHZm0CfsQMygAegUIARCgAQ",
-        "dishImgOne": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia.timeout.com%2Fimages%2F103816751%2F630%2F472%2Fimage.jpg&imgrefurl=https%3A%2F%2Fwww.timeout.com%2Fwashington-dc%2Frestaurants%2Fkomi&tbnid=i1EjNYZqTDNjPM&vet=12ahUKEwipsLT7qNbvAhXEa80KHZm0CfsQMygHegUIARCuAQ..i&docid=1z6gHC2w_62kPM&w=630&h=472&q=komi%20restaurant%20dc&ved=2ahUKEwipsLT7qNbvAhXEa80KHZm0CfsQMygHegUIARCuAQ",
-        "dishImgTwo": "https://www.google.com/imgres?imgurl=http%3A%2F%2Fwww.timelesswines.com%2Frestaurant-reviews%2Fwp-content%2Fuploads%2F2013%2F08%2FKomi-Goat.jpg&imgrefurl=https%3A%2F%2Fwww.timelesswines.com%2Frestaurant-reviews%2F2013%2F08%2F22%2Fkomi-washington-d-c%2F&tbnid=kGtmvvvPaYFlmM&vet=12ahUKEwipsLT7qNbvAhXEa80KHZm0CfsQMygLegUIARC2AQ..i&docid=NYhb507UiGmp0M&w=500&h=375&q=komi%20restaurant%20dc&ved=2ahUKEwipsLT7qNbvAhXEa80KHZm0CfsQMygLegUIARC2AQ"
+        "restaurantImg": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Komi_-_Washington%2C_D.C..JPG",
+        "dishImgOne": "https://media.timeout.com/images/103816751/630/472/image.jpg",
+        "dishImgTwo": "http://www.timelesswines.com/restaurant-reviews/wp-content/uploads/2013/08/Komi-Goat.jpg"
   
       },
       {
@@ -102,9 +102,9 @@
         "starNumber": 1,
         "address": "1509 17th St. NW, Washington, 20036, United States",
         "menue": "https://www.sushitaro.com/menus/",
-        "restaurantImg": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fimages.otstatic.com%2Fprod%2F23682291%2F1%2Fhuge.jpg&imgrefurl=https%3A%2F%2Fwww.opentable.com%2Fsushi-taro&tbnid=BBrBYMBjFq8StM&vet=12ahUKEwjjyYyRqtbvAhXZXs0KHWP0AxoQMygDegUIARC4AQ..i&docid=bT-8acKew0zRhM&w=247&h=247&q=sushi%20taro&ved=2ahUKEwjjyYyRqtbvAhXZXs0KHWP0AxoQMygDegUIARC4AQ",
-        "dishImgOne": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.washingtonpost.com%2Frf%2Fimage_1484w%2F2010-2019%2FWashingtonPost%2F2018%2F10%2F10%2FProduction%2FMagazine%2FImages%2FTWPMFTSushiTaroJanuary102018_7501885.jpg%3Ft%3D20170517&imgrefurl=https%3A%2F%2Fwww.washingtonpost.com%2Flifestyle%2Ffood%2Fsushi-taro-review-a-master-of-the-craft-is-as-reliable-as-ever%2F2016%2F10%2F12%2F5266edf6-8fe0-11e6-9c85-ac42097b8cc0_story.html&tbnid=TU0DmftMcOrEcM&vet=12ahUKEwjjyYyRqtbvAhXZXs0KHWP0AxoQMygBegUIARC0AQ..i&docid=aGdQv1iygovj4M&w=1484&h=990&q=sushi%20taro&ved=2ahUKEwjjyYyRqtbvAhXZXs0KHWP0AxoQMygBegUIARC0AQ",
-        "dishImgTwo": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.redd.it%2Fkcg7n12fbji21.jpg&imgrefurl=https%3A%2F%2Fwww.reddit.com%2Fr%2Fsushi%2Fcomments%2Fau8y5e%2Fomakase_sushi_taro_in_washington_dc%2F&tbnid=yV1ESJjPxSLR-M&vet=12ahUKEwjjyYyRqtbvAhXZXs0KHWP0AxoQMygHegUIARDBAQ..i&docid=VcPo_wSl8HpI4M&w=2050&h=1537&q=sushi%20taro&ved=2ahUKEwjjyYyRqtbvAhXZXs0KHWP0AxoQMygHegUIARDBAQ"
+        "restaurantImg": "https://images.otstatic.com/prod/23682291/1/huge.jpg",
+        "dishImgOne": "https://www.washingtonpost.com/rf/image_1484w/2010-2019/WashingtonPost/2018/10/10/Production/Magazine/Images/TWPMFTSushiTaroJanuary102018_7501885.jpg?t=20170517",
+        "dishImgTwo": "https://i.redd.it/kcg7n12fbji21.jpg"
       },
       {
         "name":"Sushi Nakazawa",
