@@ -14,6 +14,9 @@ const reviewSchema = new mongoose.Schema(
 			required: true,
 		},
 		rating: String,
+		// reviewerId: {
+		// 	type: mongoose.Schema.Types.ObjectId,
+		// },
 	},
 	{
 		timestamps: true,
