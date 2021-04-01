@@ -13,7 +13,7 @@ router.get('/', (req, res, next) => {
 router.get('/:id', (req, res, next) => {
 	const id = req.params.id;
 	Restaurant.findById(id)
-		.populate('reviews.reviewer')
+		// .populate('reviews.reviewer')
 		.then((restaurant) => res.json(restaurant))
 		.catch(next);
 });
