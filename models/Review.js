@@ -13,6 +13,10 @@ const reviewSchema = new mongoose.Schema(
 			type: String,
 			required: true,
 		},
+		rating: String,
+		// reviewerId: {
+		// 	type: mongoose.Schema.Types.ObjectId,
+		// },
 	},
 	{
 		timestamps: true,

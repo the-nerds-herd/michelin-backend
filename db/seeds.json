@@ -52,7 +52,7 @@
         "dishImgTwo": "https://thedabney.com/wp-content/uploads/Side-by-Side-1-e1510170816959-1800x1100.jpg"
     },
     {
-        "name": "The Inn at Little Washinton",  
+        "name": "The Inn at Little Washington",  
         "openingHours": "Closed: lunch : Monday, Tuesday, lunch : Wednesday-Sunday",
         "website": "http://www.theinnatlittlewashington.com",
         "Phone": "tel:+1 540-675-3800",
@@ -60,7 +60,8 @@
         "starNumber": 3,
         "address": "309 Middle St., Washington, 22747, United States",
         "menue": "https://theinnatlittlewashington.com/restaurant/sample-menu/",
-        "restaurantImg": "https://theinnatlittlewashington.com/about-us/the-campus/#bwg15/153",
+
+        "restaurantImg": "https://theinnatlittlewashington.com/wp-content/uploads/photo-gallery/About%20Campus/Beall_121012_1323S.jpg",
         "dishImgOne": "https://theinnatlittlewashington.com/wp-content/uploads/photo-gallery/Restaurant%20Sample%20Menu/Inn-at-Little-Washington-2007-WEB.jpg",
         "dishImgTwo": "https://theinnatlittlewashington.com/wp-content/uploads/photo-gallery/Restaurant%20Sample%20Menu/Inn_at_Little_Washington_42641_WEB.jpg"
   
