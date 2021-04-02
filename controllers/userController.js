@@ -4,7 +4,7 @@ const User = require('../models/User');
 const bcrypt = require('bcrypt');
 
 router.get('/', (req, res, next) => {
-	User.find({})
+	User.find()
 		.then((user) => res.json(user))
 		.catch(next);
 });
