@@ -58,4 +58,4 @@ Install all the dependencies in this app.
 
 ### `node seed.js`
 
-Seed the restaurants data into MongoDB.
+Seed the restaurants data with Restaurnt Schema into MongoDB.
