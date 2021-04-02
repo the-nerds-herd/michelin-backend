@@ -39,7 +39,7 @@ router.delete('/:id', (req, res, next) => {
 
 // UPDATE
 // PATCH /reviews/:id
-router.patch('/:id', (req, res, next) => {
+router.put('/:id', (req, res, next) => {
 	const id = req.params.id;
 	const reviewData = req.body;
 
