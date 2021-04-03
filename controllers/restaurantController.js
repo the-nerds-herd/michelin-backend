@@ -4,6 +4,7 @@ const Restaurant = require('../models/Restaurant');
 
 router.get('/', (req, res, next) => {
 	Restaurant.find()
+		.populate('reviews.owner', 'name')
 		.then((restaurants) => res.json(restaurants))
 		.catch(next);
 });
@@ -13,7 +14,7 @@ router.get('/', (req, res, next) => {
 router.get('/:id', (req, res, next) => {
 	const id = req.params.id;
 	Restaurant.findById(id)
-		// .populate('reviews.reviewer')
+		.populate('reviews.owner')
 		.then((restaurant) => res.json(restaurant))
 		.catch(next);
 });
