@@ -2,7 +2,7 @@
 
 ## Description
 
-The Michelin Finder is an application that displays Michelin star restaurants in Washington D.C. (more to come in stretch goals). Inside the details of each restaurant, you can find their reviews, menu, open hours, and other important information.
+The Michelin Finder is an application that displays Michelin star restaurants in Washington D.C.. Inside the details of each restaurant, you can find their reviews, menu, open hours, and other important information.
 
 This repository is for the Back End API of this app.
 
@@ -18,6 +18,11 @@ This repository is for the Back End API of this app.
 - Cors
 - CRUD functionality
 - Postman
+
+## References
+
+- Stack Overflow
+- Google
 
 ## Front-End link
 

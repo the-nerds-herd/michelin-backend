@@ -29,13 +29,9 @@ router.post('/', requireToken, (req, res, next) => {
 	// find the restaurant by its id
 	Restaurant.findById(restaurantId)
 		.then((restaurant) => {
-			// restaurant.review;
-			// add review to restaurant
 			restaurant.reviews.push(reviewData);
-			// save restaurant
 			return restaurant.save();
 		})
-		// send responsne back to client
 		.then((restaurant) => res.status(201).json({ restaurant }))
 		.catch(next);
 });
@@ -69,14 +65,11 @@ router.put('/:id', handleValidateId, requireToken, (req, res, next) => {
 	})
 		.then(handleRecordExists)
 		.then((restaurant) => {
-			// const review = restaurant.reviews.id(id);
 			const output = handleValidateOwnership(req, restaurant, id);
 			return output;
 		})
 		.then((output) => {
-			// console.log(output);
 			const review = output.reviews.id(id);
-
 			review.set(reviewData);
 			console.log(review);
 			return output.save();
