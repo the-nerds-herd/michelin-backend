@@ -14,9 +14,11 @@ const reviewSchema = new mongoose.Schema(
 			required: true,
 		},
 		rating: String,
-		// reviewerId: {
-		// 	type: mongoose.Schema.Types.ObjectId,
-		// },
+		owner: {
+			type: mongoose.Schema.Types.ObjectId,
+			ref: 'User',
+			require: true,
+		},
 	},
 	{
 		timestamps: true,
