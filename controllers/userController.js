@@ -4,11 +4,11 @@ const User = require('../models/User');
 const bcrypt = require('bcrypt');
 const { createUserToken } = require('../middleware/auth');
 
-// router.get('/', (req, res, next) => {
-// 	User.find()
-// 		.then((user) => res.json(user))
-// 		.catch(next);
-// });
+router.get('/', (req, res, next) => {
+	User.find()
+		.then((user) => res.json(user))
+		.catch(next);
+});
 
 //Sign up
 router.post('/signup', (req, res, next) => {
@@ -20,8 +20,6 @@ router.post('/signup', (req, res, next) => {
 		.catch(next);
 });
 
-module.exports = router;
-
 //Sign in
 router.post('/signin', (req, res, next) => {
 	User.findOne({ name: req.body.name })
@@ -29,3 +27,5 @@ router.post('/signin', (req, res, next) => {
 		.then((token) => res.json({ token }))
 		.catch(next);
 });
+
+module.exports = router;
