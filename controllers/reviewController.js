@@ -3,12 +3,20 @@ const router = express.Router();
 
 // require restaurant model
 const Restaurant = require('../models/Restaurant');
+// const Review = require('../models/Review');
+
 const {
 	handleValidateId,
 	handleRecordExists,
 	handleValidateOwnership,
 } = require('../middleware/custom_errors');
 const { requireToken } = require('../middleware/auth');
+
+// router.get('/', (req, res, next) => {
+// 	Review.find()
+// 		.then((reviews) => res.json(reviews))
+// 		.catch(next);
+// });
 
 // CREATE
 // POST /reviews/
