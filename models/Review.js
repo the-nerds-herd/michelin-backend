@@ -9,9 +9,11 @@ const reviewSchema = new mongoose.Schema(
 			type: String,
 			required: true,
 		},
-		reviewer: {
-			type: String,
-			required: true,
+		rating: String,
+		owner: {
+			type: mongoose.Schema.Types.ObjectId,
+			ref: 'User',
+			require: true,
 		},
 		rating: String,
 		// reviewerId: {
