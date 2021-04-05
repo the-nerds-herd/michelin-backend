@@ -6,7 +6,9 @@ const { createUserToken } = require('../middleware/auth');
 
 router.get('/', (req, res, next) => {
 	User.find()
-		.then((users) => res.json(users))
+		.then((users) => {
+			res.json(users);
+		})
 		.catch(next);
 });
 
